@@ -29,7 +29,11 @@ public class Main {
         }
         // contraex: voi primi eroare la executie
 
-        SistemDesktop q = (SistemDesktop) x;
+        // SistemDesktop q = (SistemDesktop) x;
+
+        int k = 5;
+
+
     }
 }
 
